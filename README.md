@@ -1,6 +1,6 @@
 # Oii! Eu sou a Tainara Costa! 👩🏽‍💻
 
-- 🔭 Hoje trabalho com Marketplace
+- 🔭 Hoje trabalho como Analista Comercial
 - 🌱 Estudando Desenvolvimento Web Full Stack
 - 😄 Pronomes: ela/dela
 - 🚴🏾‍♀️ Ciclista amadora
