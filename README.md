@@ -1,6 +1,6 @@
 # Oii! Eu sou a Tainara Costa! 👩🏽‍💻
 
-- 🔭 Hoje trabalho como Analista Comercial
+- 🔭 Hoje trabalho como Modelo Comercial
 - 🌱 Estudando Desenvolvimento Web Full Stack
 - 😄 Pronomes: ela/dela
 - 🚴🏾‍♀️ Ciclista amadora
