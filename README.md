@@ -1,7 +1,7 @@
 # Oii! Eu sou a Tainara Costa! 👩🏽‍💻
 
-- 🔭 Hoje trabalho como Modelo Comercial
-- 🌱 Estudando Desenvolvimento Web Full Stack
+- 🔭 Hoje estou em transição de carreira para a área tecnológica
+- 🌱 Formada em Desenvolvimento Web Full Stack pela Resilia Educação
 - 😄 Pronomes: ela/dela
 - 🚴🏾‍♀️ Ciclista amadora
 <div>
