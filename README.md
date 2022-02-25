@@ -1,4 +1,4 @@
-# Olá! Eu sou a Tainara Costa! 👩🏽‍💻
+# Olá! Eu sou a Tainara Alves! 👩🏽‍💻
 
 - 🔭 Hoje estou em transição de carreira para a área tecnológica
 - 🌱 Formada em Desenvolvimento Web Full Stack pela Resilia Educação
